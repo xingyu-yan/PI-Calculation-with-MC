@@ -1,8 +1,9 @@
 #!/usr/local/bin/python3.4
 # encoding: utf-8
 '''
-Created on December 5, 2016
-@author: xingyu, at Ecole Centrale de Lille
+@author: xingyu, created on December 5, 2016, at Ecole Centrale de Lille
+https://github.com/xingyu-yan
+
 This program is for PI estimation with Monte Carlo simulation
 
 General Idea: we will simulate a square with a circle inscribing it.
